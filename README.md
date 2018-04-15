@@ -1,3 +1,3 @@
 ##Hello,world
 ###this is a demo
-###it's small but useful!
+###it's small but USEful!
